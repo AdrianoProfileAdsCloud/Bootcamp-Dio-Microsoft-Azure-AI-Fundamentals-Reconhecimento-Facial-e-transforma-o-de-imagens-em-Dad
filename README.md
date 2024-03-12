@@ -1,5 +1,8 @@
 # Bootcamp Dio - Microsoft Azure AI Fundamentals.
-Reconhecimento Facial e transformação de imagens em Dados no Azure ML
+Reconhecimento Facial e transformação de imagens em Dados no Azure ML.
+
+Neste Projeto, tem como objetivo praticar a criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. Através desse projetino(Lab),será possível fixar melhor o que foi excplicado e realizados nas aulas, proporcionando uma compreensão mais profunda e prática desses conceitos essenciais.
+
 
 ## Azure AI – Vision Studio - Detectar rostos com o Face Service.
 <p>Dentre os serviços de IA do Azure. O serviço de detecção de rostos, objetos em imagem, incluindo atributos extras como pose, máscara facial e pontos de referências faciais, é um serviço que permite que nos possibilita a implantação de recursos como:</p>
