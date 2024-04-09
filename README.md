@@ -1,5 +1,4 @@
-# Bootcamp Dio - Microsoft Azure AI Fundamentals.
-Reconhecimento Facial e transformação de imagens em Dados no Azure ML.
+# Bootcamp Dio - Microsoft Azure AI Fundamentals - Reconhecimento Facial e transformação de imagens em Dados no Azure ML.
 
 Neste Projeto, tem como objetivo praticar a criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. Através desse projetino(Lab),será possível fixar melhor o que foi excplicado e realizados nas aulas, proporcionando uma compreensão mais profunda e prática desses conceitos essenciais.
 
